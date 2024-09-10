@@ -5,6 +5,7 @@
 - walnut
 - peanut
 - roman salad
+- chicken
 
 
 ## Instructions
